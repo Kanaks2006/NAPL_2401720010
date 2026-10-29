@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMgtAYILgEw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\NALP_2401720010\\lab6\\exp9\\exp9.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\fsharp.core\\10.1.401\\fsharp.core.10.1.401.nupkg.sha512"
+  ],
+  "logs": []
+}
